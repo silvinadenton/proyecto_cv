@@ -1,4 +1,17 @@
 body{
 
-    
+    background-image: url("/img/depositphotos_215087088-stock-illustration-sweets-dessert-icon-filled-outline.jpg");
+    background-repeat: repeat ;  
+
+}
+.container{
+
+    font-family: 'Roboto', sans-serif;
+}
+#titulo{
+    text-align: center;
+    background-color: white;
+    font-size: 30px;
+    font: bold;
+
 }
