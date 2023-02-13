@@ -1,7 +1,8 @@
 body{
 
-    background-image: url("/img/depositphotos_215087088-stock-illustration-sweets-dessert-icon-filled-outline.jpg");
+   background-image: url("/img/depositphotos_215087088-stock-illustration-sweets-dessert-icon-filled-outline.jpg");
     background-repeat: repeat ;  
+    
 
 }
 .container{
@@ -14,4 +15,8 @@ body{
     font-size: 30px;
     font: bold;
 
+}
+#Foto{
+    background-color: white;
+    border-right: rgb(24, 24, 23) solid 1px;
 }
