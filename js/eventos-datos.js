@@ -1,14 +1,18 @@
-let boton_email=document.getElementById("Email");
 
-function email(params){
+function email(boton_email){
+
     
-       
+    
     document.getElementById('Email').innerHTML="susana@hotmail.com";
-   
           
     
 }
-function no_email(){
+function direccion(){
+    
+    document.getElementById('Direccion').innerHTML="Suipacha 2345";
+}
 
-    document.getElementById('Email').inner;
+function telefono(){
+    
+    document.getElementById('Telefono').innerHTML="1564789541";
 }

@@ -18,5 +18,14 @@ body{
 }
 #Foto{
     background-color: white;
-    border-right: rgb(24, 24, 23) solid 1px;
+    
+}
+#Texto_perfil{
+
+text-align: center;
+padding-top: 10px;
+
+}
+#Texto{
+  padding-top: 30px;  
 }
