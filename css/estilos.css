@@ -13,10 +13,11 @@ body{
     text-align: center;
     background-color: white;
     font-size: 30px;
-    font: bold;
+    font-weight:bold;
 
 }
 #Foto{
+    font-weight:bold;
     background-color: white;
     border-right: black solid 1px ;
 }
@@ -24,6 +25,8 @@ body{
  
 text-align: center;
 padding-top: 10px;
+font-weight:bold;
+
 
 }
 #experiencia{
@@ -34,10 +37,11 @@ padding-top: 10px;
 #perfil{
     border-top: black solid 1px ;
    
+   
 }
 #formacion{
-    border-top: black solid 1px ;
-    border-left: black solid 1px ;
-    border-bottom:  black solid 1px ;
- 
+    font-weight:bold;
+    border: black solid 1px;
+    margin-top: 35px;
+    padding: 15px;
 }
