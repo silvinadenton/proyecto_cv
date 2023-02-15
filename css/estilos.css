@@ -18,14 +18,26 @@ body{
 }
 #Foto{
     background-color: white;
-    
+    border-right: black solid 1px ;
 }
 #Texto_perfil{
-
+ 
 text-align: center;
 padding-top: 10px;
 
 }
-#Texto{
-  padding-top: 30px;  
+#experiencia{
+  
+    border-top: black solid 1px ;
+    border-left: black solid 1px ;
+}
+#perfil{
+    border-top: black solid 1px ;
+   
+}
+#formacion{
+    border-top: black solid 1px ;
+    border-left: black solid 1px ;
+    border-bottom:  black solid 1px ;
+ 
 }
